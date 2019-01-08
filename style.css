@@ -1,8 +1,8 @@
 body {
 	margin: 0;
 	padding: 0;
-	background: darkblue;
-	color: darkorange;
+	background: #afceff;
+	color: #400060;
 	font-family: "Courier New", Courier, monospace;
 }
 main {
@@ -10,8 +10,9 @@ main {
 }
 h1 {
 	margin: 0 0 1em 0;
-	font-family: "Courier New", Courier, monospace;
+	font-family: Helvetica;
 }
 p {
 	margin: 0 0 1em 0;
+	padding: 1em;
 }
