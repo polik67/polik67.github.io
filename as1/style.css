@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: black;
+	color: limegreen;
+	font-family: "OCRAStdRegular";
+	font-size: 50px;
+}
+main {
+	padding: 1em;
+}
+h1 {
+	margin: 0 0 1em 0;
+	font-family: "OCRAStdRegular";
+}
+p {
+	margin: 0 0 1em 0;
+	
+}
+
+@font-face {
+    font-family: "OCRAStdRegular";
+    src: url(fonts/OCRAStdRegular.ttf);
+}
