@@ -2,9 +2,9 @@ body {
 	margin: 0;
 	padding: 0;
 	background: black;
-	color: limegreen;
+	color: #00e600;
 	font-family: "OCRAStdRegular";
-	font-size: 50px;
+	font-size: 60px;
 }
 main {
 	padding: 1em;
@@ -14,11 +14,33 @@ h1 {
 	font-family: "OCRAStdRegular";
 }
 p {
-	margin: 0 0 1em 0;
-	
+	margin: 0 0 2em 0;
+	font-size: 15px;
+	padding: 1em;
+
 }
 
 @font-face {
     font-family: "OCRAStdRegular";
     src: url(fonts/OCRAStdRegular.ttf);
+}
+
+p1 {
+	margin: 0 0 2em 0;
+	font-size: 20px;
+	padding: 2em;
+	display: block;
+}
+
+.tobi img {
+  height: 400px;
+  width: 400px;
+  border: 6px solid #00e600;
+  border-radius: 5px;
+}
+
+.tobi {
+	height: 0px;
+    width: 0px;
+     padding-left: 40em;
 }
